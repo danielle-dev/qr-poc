@@ -4,6 +4,8 @@ Got to [https://qr-poc.vercel.app/](https://qr-poc.vercel.app/) __preferably on 
 
 Generate QR code [here](https://rosskhanas.github.io/react-qr-code/). And scan it.
 
+Done! 🎉🎉🎉
+
 ## Getting Started locally
 
 First, run the development server:
