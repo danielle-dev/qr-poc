@@ -16,6 +16,8 @@ export default function Home() {
           Welcome to our <a href="#">QR reader POC!</a>
         </h1>
 
+        <QRReader />
+        
         <p className={styles.description}>
           We used this library for the setup:{" "}
           <code className={styles.code}>react-qr-reader</code>
@@ -34,7 +36,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-      <QRReader />
     </div>
   );
 }
